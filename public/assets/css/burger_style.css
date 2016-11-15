@@ -1,0 +1,24 @@
+body{
+	background-color:#DDBC95;
+}
+h1{
+	text-align:center;
+}
+img{
+	content:url(../img/burger.jpg);	
+	display: block;
+    margin: auto;
+    width: 40%;
+}
+#undevoured{
+	width:500px;
+	float:left;
+}
+#add{
+	width:430px;
+	float:left;
+}
+#devoured{
+	width:500px;
+	float:right;
+}
